@@ -13,6 +13,7 @@
 		1DEF17B727EBA93B0019CBFD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DEF17B527EBA93B0019CBFD /* Main.storyboard */; };
 		1DEF17B927EBA93E0019CBFD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DEF17B827EBA93E0019CBFD /* Assets.xcassets */; };
 		1DEF17BC27EBA93E0019CBFD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DEF17BA27EBA93E0019CBFD /* LaunchScreen.storyboard */; };
+		1DEF17C427EE42A10019CBFD /* RickAndMoerty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DEF17C327EE42A10019CBFD /* RickAndMoerty.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1DEF17B827EBA93E0019CBFD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1DEF17BB27EBA93E0019CBFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1DEF17BD27EBA93E0019CBFD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1DEF17C327EE42A10019CBFD /* RickAndMoerty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RickAndMoerty.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1DEF17AF27EBA93B0019CBFD /* AppDelegate.swift */,
 				1DEF17B127EBA93B0019CBFD /* SceneDelegate.swift */,
 				1DEF17B327EBA93B0019CBFD /* ViewController.swift */,
+				1DEF17C327EE42A10019CBFD /* RickAndMoerty.swift */,
 				1DEF17B527EBA93B0019CBFD /* Main.storyboard */,
 				1DEF17B827EBA93E0019CBFD /* Assets.xcassets */,
 				1DEF17BA27EBA93E0019CBFD /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1DEF17C427EE42A10019CBFD /* RickAndMoerty.swift in Sources */,
 				1DEF17B427EBA93B0019CBFD /* ViewController.swift in Sources */,
 				1DEF17B027EBA93B0019CBFD /* AppDelegate.swift in Sources */,
 				1DEF17B227EBA93B0019CBFD /* SceneDelegate.swift in Sources */,
